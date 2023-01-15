@@ -133,6 +133,9 @@ feature list design
   .quick_feature_image {
     margin: 0;
   }
+  .quick_feature_image img{
+    width: 75%;
+  }
 }
 /* -----------------
  loved feature section design
